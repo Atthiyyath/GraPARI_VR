@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D540B611-4825-32E3-FA39-A1A34E302070}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "GraPARI_VR",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
